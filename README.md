@@ -1,4 +1,4 @@
-Haskel Learning Resources
+Haskell Learning Resources
 =========================
 
 http://www.reddit.com/r/programming/comments/uirrf/the_haskell_platform_20122_is_live_the_haskell/
