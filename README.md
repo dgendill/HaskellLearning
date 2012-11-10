@@ -16,3 +16,5 @@ http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
 http://book.realworldhaskell.org/read/
 
 http://en.wikibooks.org/wiki/Haskell/Indentation
+
+http://channel9.msdn.com/Shows/Going+Deep/Brian-Beckman-Dont-fear-the-Monads
